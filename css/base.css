@@ -1,0 +1,71 @@
+@charset "utf-8";
+/*====================================================================================
+■01.Base 
+  01_1.Define
+  
+■02.Layout
+
+■03.All Page
+  03_1.Header
+  03_2.Global Navigation
+  03_3.Main
+  03_4.Footer
+====================================================================================*/
+/*====================================================================================
+■01.Base
+====================================================================================*/
+/*
+  01_1.Define
+--------------------------------------------------------------*/
+body { color: #333; font-weight: normal; height: 100%; font-family:メイリオ, Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; font-size:12px; }
+a:hover,
+a:focus { outline:0 none; }
+.tn-bornor { -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; }
+.tn-gr-sty { margin-bottom:45px; }
+.tn-rr-sty { margin-bottom:30px; }
+.tn-ft-sty { margin-bottom:25px; }
+.tn-underct:hover {}
+.text-normal { font-weight:normal !important; }
+/*--title--*/
+.tn-title-stylg {}
+.tn-title-stysm {}
+.tn-title-styline {}
+.tn-title-page {}
+.tn-title-page > span {}
+.tn-title-subpage {}
+.tn-grpay {}
+/*--button--*/
+.tn-btn-search { padding:0; }
+/*--font--*/
+.font1 { }
+.font2 { }
+/*--color--*/
+
+
+/*====================================================================================
+■02.Layout
+====================================================================================*/
+.tn-header-full,
+.tn-main-full,
+.tn-footer-full { width: 320px; margin: auto; }
+.tn-header,
+.tn-main,
+.tn-footer { position: relative; width: 320px; margin: 0 auto; }
+/*====================================================================================
+■03.All Page
+====================================================================================*/
+/*
+  03_1.Header
+--------------------------------------------------------------*/
+
+/*
+  03_2.Global Navigation
+--------------------------------------------------------------*/
+
+/*
+  03_5.Main
+--------------------------------------------------------------*/
+
+/*
+  03_4.Footer
+--------------------------------------------------------------*/
